@@ -433,4 +433,3 @@ st.markdown("""
     <p style="font-size: 0.9rem; opacity: 0.9;">© 2024 | Accurate, Fast, and Reliable Property Valuation</p>
 </div>
 """, unsafe_allow_html=True)
-   what are the ml alogrithms are used in this ml project
